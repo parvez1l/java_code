@@ -22,7 +22,7 @@ public class CT6 {
         Dog c=new Cat();
         
 
-        a.makeSound();
+        a.makeSound();//this is the first comment
         b.makeSound();
         c.makeSound();
     
